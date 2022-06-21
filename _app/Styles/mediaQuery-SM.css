@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+  .section {
+    height: max-content;
+    background-size: 100%;
+    animation: Meteor 7s ease-in-out infinite;
+  }
+  .container {
+    height: 100px;
+    width: 100px;
+    /* background-color: blue; */
+  }
+}

@@ -1,0 +1,6 @@
+@media (max-width: 1200px) {
+  .section {
+    background-size: auto;
+    animation: Meteors 7s ease-in-out infinite;
+  }
+}
